@@ -58,5 +58,6 @@ public class V1 extends JFrame implements ActionListener {
 	protected void do_btnNewButton_actionPerformed(ActionEvent e) {
 		int leo;
 		int dios;
+		int diablo;
 	}
 }
